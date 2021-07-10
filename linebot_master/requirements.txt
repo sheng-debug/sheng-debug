@@ -1,2 +1,5 @@
 line-bot-sdk
 flask
+［user］
+ email＝shangyex0328@gmail.com
+ name＝商業用
